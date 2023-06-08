@@ -18,15 +18,15 @@
 ## 如何使用 🚀
 
 1. 在浏览器中安装Tampermonkey插件：
-  - [Edge安装](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-  - [Chrome安装](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
-  - [Firefox安装](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+    - [Edge安装](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+    - [Chrome安装](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
+    - [Firefox安装](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 2. 在Tampermonkey中导入此脚本:
-  1. 复制仓库中`main.js`代码
-  2. 点击Tempermonkey图标，点击`添加新脚本`
-  3. 将复制的代码粘贴进打开的页面内
-  4. 请注意，你需要修改脚本中的`@match`一行，将其改为你所在学校的教务系统网址
-  5. 保存脚本并启用，开始一键好评😤😤
+    1. 复制仓库中`main.js`代码
+    2. 点击Tempermonkey图标，点击`添加新脚本`
+    3. 将复制的代码粘贴进打开的页面内
+    4. 请注意，你需要修改脚本中的`@match`一行，将其改为你所在学校的教务系统网址
+3. 保存脚本并启用，开始一键好评😤😤
 
 📢注意：我们提供的这个hack👾只是为了帮助你简化评教过程，而不是鼓励不负责任的评价。如果有能力，请仍然认真对待你的评教，这对于提升教育质量有着重要作用。💡😉
 
